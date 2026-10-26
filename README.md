@@ -73,7 +73,7 @@ $ uv add sqlmodel
 
 </div>
 
-If you prefer to use `pip`, install `sqlmodel` inside a virtual environment. See the [installation guide](install.md) for the alternative steps.
+If you prefer to use `pip`, install `sqlmodel` inside a virtual environment. See the [installation guide](docs/install.md) for the alternative steps.
 
 ## Example
 
